@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/rylanzhou/frontend-mentor-time-tracking-dashboard)
-- Live Site URL: [Vercel](https://frontend-mentor-multi-step-form-nu.vercel.app/)
+- Live Site URL: [Vercel](https://frontend-mentor-time-tracking-dashboard-ivory.vercel.app/)
 
 ## My process
 
